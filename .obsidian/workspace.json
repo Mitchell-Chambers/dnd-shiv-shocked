@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "5c5becb5c9b8405f",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa4d95c8498cc593",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d82a93560276520a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2022-10-30 - 009 - On Treatises, Devils and Snakes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1a2bc3153180cbd4",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc4e9875e596645f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8bc46516939e6a61",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fef7ba139a4a3de5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ac5e6c1c4ea9bb47",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 365.5
+  },
+  "right": {
+    "id": "f3999a08532fea8a",
+    "type": "split",
+    "children": [
+      {
+        "id": "51d543b1c256d4cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "368cdc967a8e00ef",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sessions/2022-10-30 - 009 - On Treatises, Devils and Snakes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "df4ad9dd8135b192",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Sessions/2022-10-30 - 009 - On Treatises, Devils and Snakes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5b6d915928623cba",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "080818e64b7badfe",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Sessions/2022-10-30 - 009 - On Treatises, Devils and Snakes.md"
+              }
+            }
+          },
+          {
+            "id": "8c2ee5d693f23308",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "active": "d82a93560276520a",
+  "lastOpenFiles": [
+    "Sessions/2022-07-16 - 001 - A Vessel Waylaid.md",
+    "Locations/Smuggler's Shiv.md",
+    "Characters/Lothar Demidavious.md",
+    "Timeline.md",
+    "Characters/Ihe.md",
+    "Characters/Summer.md",
+    "Characters/Urist.md",
+    "Locations/The Empire.md",
+    "Locations/Jenivere.md",
+    "Locations/Bay of the Serpent Below.md"
+  ]
+}
