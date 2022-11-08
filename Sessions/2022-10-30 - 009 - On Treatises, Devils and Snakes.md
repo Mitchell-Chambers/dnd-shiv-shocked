@@ -43,7 +43,7 @@ It talks about the creature within. "It was a devil named Osgorth, it was tall w
 
 THE PARTY ASSEMBLES TO AMBUSH OSGORTH, DEVIL OF WEALTH
 
->Summer (Marko): [After a successful knowledge check] *"Fuck me dead, this is starting to sound like a raid boss."*
+>Summer (Marko): **After a successful knowledge check** *"Fuck me dead, this is starting to sound like a raid boss."*
 
 Devil of Wealth, takes the tools of its foes and turns it against them, using mind effects and trickery to mess with them?
 
@@ -57,7 +57,7 @@ The ceiling is yellowed, and the walls are fit to collapse, with vines and creep
 
 ### C15 - Exit North
 
->Urist (Brad): [Gestures at the magic axe] *"If you simply consult the treatise."*
+>Urist (Brad): **Gestures at the magic axe** *"If you simply consult the treatise."*
 
 A long corridor with ending with a large bronze door. Part way down a glaive is planted into the wall, next to a pyre. The glaive appears to be magical, Urist can't help but notice that it has a vibe aligned with Raku.
 

@@ -1,6 +1,6 @@
 **Cooking**: Allie
 
-The party cross the bay and descends into the sinkhole after a long and lengthy debate about NNW and NNE.
+The party cross the bay and descends into the [[Bay of the Serpent Below|sinkhole]] after a long and lengthy debate about NNW and NNE.
 
 The blood leaks out the door and spills on the ground. Dark chamber inside, covered in bones.
 
