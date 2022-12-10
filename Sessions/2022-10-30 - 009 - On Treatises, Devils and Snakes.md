@@ -41,7 +41,7 @@ Urist opens wide. The room contains a similar setup, with a pentagram of salt, h
 
 It talks about the creature within. "It was a devil named Osgorth, it was tall with a bronze complexion and abnormal limbs, armour possession a coin pattern, and covered in mismatched jewellery and bracelets, very gaudy. The creature 'Devil' wears an uncomfortable smile. His Crypt was built to honour his contribution to the great temple. Everything about him was disproportioned in the drawings, making their depictions very uncomfortable.
 
-THE PARTY ASSEMBLES TO AMBUSH OSGORTH, DEVIL OF WEALTH
+**THE PARTY ASSEMBLES TO AMBUSH OSGORTH, DEVIL OF WEALTH**
 
 >Summer (Marko): **After a successful knowledge check** *"Fuck me dead, this is starting to sound like a raid boss."*
 
@@ -57,7 +57,7 @@ The ceiling is yellowed, and the walls are fit to collapse, with vines and creep
 
 ### C15 - Exit North
 
->Urist (Brad): **Gestures at the magic axe** *"If you simply consult the treatise."*
+>Urist (Brad): **Gestures at the [[magic axe]]** *"If you simply consult the treatise."*
 
 A long corridor with ending with a large bronze door. Part way down a glaive is planted into the wall, next to a pyre. The glaive appears to be magical, Urist can't help but notice that it has a vibe aligned with Raku.
 

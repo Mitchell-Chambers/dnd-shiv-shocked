@@ -1,7 +1,7 @@
 ---
 tags: [timeline, pc, human, fighter]
 ---
-<span class='ob-timelines' data-date='4702-08-24' data-title="Birth of Lothar">As the second son of a noble royal adjacent family, Lothar knew he was destined for greatness.</span>
+<span class='ob-timelines' data-date='1478-08-24' data-title="Birth of Lothar">As the second son of a noble royal adjacent family, Lothar knew he was destined for greatness.</span>
 
 
 Raku has looked into the flames of destiny and seen past the hearth of your life.  

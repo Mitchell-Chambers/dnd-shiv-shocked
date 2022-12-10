@@ -26,6 +26,36 @@
       "files": [
         "Locations/Smuggler's Shiv.md"
       ]
+    },
+    {
+      "id": "leaflet-map",
+      "lastAccessed": 1670054507142,
+      "markers": [
+        {
+          "id": "ID_9ba8eb792968",
+          "type": "default",
+          "loc": [
+            145.125,
+            154.5
+          ],
+          "layer": "%5B%5BSmugglers-Shiv-Incomplete.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            40.81733746130031,
+            -48.46966731898239
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Locations/Smuggler's Shiv.md"
+      ]
     }
   ],
   "defaultMarker": {

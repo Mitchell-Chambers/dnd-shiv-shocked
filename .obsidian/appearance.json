@@ -1,3 +1,6 @@
 {
-  "accentColor": ""
+  "accentColor": "",
+  "cssTheme": "ITS Theme",
+  "theme": "moonstone",
+  "baseFontSize": 13
 }
