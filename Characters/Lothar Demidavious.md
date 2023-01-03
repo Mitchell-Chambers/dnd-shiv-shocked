@@ -19,14 +19,12 @@ Second son in a family with a prodigy next in line, there was not much for Lotha
 The fail-son of another fail-son, perpetually kept afloat through the safety net afforded to the forebearers of the Empire.
 
 Lothar has no divine right, for that would imply he was chosen.
-
-He has no talent, for that would imply he is driven.
-
+He has no skill, for that would imply he is driven.
 He has no arcana in his blood, for that would imply his ancestors were anything other than lucky.
 
 Lothar is a child with unearned strength and charm, obtained through breeding and position.
 
-Lothar Demidavicius, what do the Fates have in store for you?
+>*Lothar Demidavicius, what do the Fates have in store for you?*
 
 Lothar - Modernisation of the Germanic name Clothar, meaning ‘Famous Warrior’
 
@@ -49,6 +47,15 @@ His birth (not exactly a number you can roll)
 At first glance a reasonable player would see these attributes and pick one of the following classes; Bard, Paladin, Skald, Sorcerer, Bloodrager. Swashbuckler.
 
 Lothar is not controlled by a reasonable player.
+
+```statblock
+layout: Basic PF 1e - Custom Character
+name: Lothar Demidavious
+type: Fighter 4
+stats: 13 | 13 | 12 | 10 | 10 | 16
+```
+
+
 
 ## Build Choices
 ### Fighter
@@ -76,15 +83,11 @@ Urist, the Minister of the Flame
 
 Feats
 Steadfast Personality
-
 You rely on your assuredness and sense of self to help keep your mind clear.
-
 Benefit: Add your Charisma modifier instead of your Wisdom bonus on Will saves against mind-affecting effects. If you have a Wisdom penalty, you must apply both your Wisdom penalty and your Charisma modifier.
 
 Persuasive
-
 You are skilled at swaying attitudes and intimidating others into your way of thinking.
-
 Benefit: You get a +2 bonus on Diplomacy and Intimidate skill checks. If you have 10 or more ranks in one of these skills, the bonus increases to +4 for that skill.
 
 
