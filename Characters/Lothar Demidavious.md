@@ -1,6 +1,15 @@
 ---
 tags: [timeline, pc, human, fighter]
 ---
+
+```statblock
+name: Lothar Demidavious
+ac: 19
+t_ac: 11
+ff_ac:
+
+```
+
 <span class='ob-timelines' data-date='1478-08-24' data-title="Birth of Lothar">As the second son of a noble royal adjacent family, Lothar knew he was destined for greatness.</span>
 
 

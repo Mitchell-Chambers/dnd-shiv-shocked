@@ -194,8 +194,8 @@
         "offset": 0
       },
       "current": {
-        "day": 20,
-        "month": 7,
+        "day": 18,
+        "month": 8,
         "year": 1500
       },
       "events": [
@@ -432,7 +432,7 @@
           "color": "#0288D1"
         }
       ],
-      "date": 1670556951440
+      "date": 1672729894303
     }
   ],
   "configDirectory": null,

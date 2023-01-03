@@ -13,7 +13,7 @@ Mural of a Fox and a Swan
 Fox represent Raku, the Swan represent Nivara, the god of water
 
 ### C1 - Scriptorum
-That's where we left Gelic and the Girl
+That's where we left Gelic and the Girl named Sasha
 
 >Urist (Brad): *"The fact that the sky is red, I feel like we are on a deadline here."*
 >GM (Andrew): *"Noooooooo..."*
@@ -68,3 +68,7 @@ Visible from the many clearings around.
 ### C17 - The Abandoned Camp
 
 10ft hallway with carved tiles, leads to a clearing with an abandoned campsite, ruins around three tents that have been flattened and much discarded cloth. Torn backpack, mouldy parchment. Someone must have been here within the year.
+
+
+## Summary
+Where we last left our heroes!
