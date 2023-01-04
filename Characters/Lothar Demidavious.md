@@ -1,14 +1,69 @@
 ---
 tags: [timeline, pc, human, fighter]
 ---
-
+**Current HP**: 34
 ```statblock
 name: Lothar Demidavious
+size: Medium
+type: Fighter 4
+subtype: Human
+Alignment: Chaotic Neutral
 ac: 19
 t_ac: 11
-ff_ac:
-
+ff_ac: 19
+stats: [14, 13, 12, 10, 10, 16]
+hp: 35
+speed: 30 ft. 25 ft. Armoured
+senses: Darkvision
+bab: 4
+cmb: 4
+cmd: 15
+saves:
+  - Fortitude: +5
+  - Reflex: +2
+  - Will: +4
+skillsaves:
+  - Bluff: 10
+  - Climb: 6
+  - Handle Animal: 7
+  - Intimidate: 9
+  - Knowledge (Nobility): 6
+  - Perform (Oratry): 4
+  - Ride: 5
+  - Survival: 8
+  - Swim: 5
+languages: Common
+gear:
+  - name: Combat Gear
+    desc: Mwk Battle Axe, Flag of Demidavicious, Glaive, Throwing Axe
+  - name: Other Gear
+    desc: 
+feats:
+  - name: Noble Scion of War
+    desc: May use Cha in place of Dex for Init
+  - name: Toughness
+    desc: Gain 1 HP per Level
+  - name: Steadfast Personality
+    desc: Use Cha in place of Wis for Will
+  - name: Flagbearer
+    desc: "Members of an allegiance within 30 feet who can see the flag gain a 1 morale bonus on attack rolls, weapon damage rolls, and saving throws against fear and charm effects."
+  - name: Divine Defiance
+    desc: "You gain a 2 bonus on saving throws against divine spells and the spell-like abilities granted by levels in a divine casting class."
+  - name: Barroom Brawler
+    desc: Spend a move action to gain any combat feat.
+sq:
+ - name: Skilled
+   desc: An extra skill point per level
+ - name: Bravery 1
+   desc: Increase Will against Fear effects
+ - name: Armor Training (Armoured Sacrifice)
+   desc: Have the armour take the dying blow
+attack:
+ - name: Axe, Battle Mwk
+   desc: "Attack +8 and Damage 0 (1d8+3)"
+dice: true
 ```
+
 
 <span class='ob-timelines' data-date='1478-08-24' data-title="Birth of Lothar">As the second son of a noble royal adjacent family, Lothar knew he was destined for greatness.</span>
 
@@ -57,14 +112,6 @@ At first glance a reasonable player would see these attributes and pick one of t
 
 Lothar is not controlled by a reasonable player.
 
-```statblock
-layout: Basic PF 1e - Custom Character
-name: Lothar Demidavious
-type: Fighter 4
-stats: 13 | 13 | 12 | 10 | 10 | 16
-```
-
-
 
 ## Build Choices
 ### Fighter
@@ -107,3 +154,28 @@ Bloodline – Phoenix
 Bloodline – Vestige  
 Bloodline – Abyssal  
 Bloodline – Infernal
+
+
+
+# Advancements
+
+## Burgeoning Leader - Level 4
+
+You managed to escape the deadly isle intact! You gain +4 on Survival checks.
+
+>*Where once you felt as if rulership was a birthright, the hardship of your doomed voyage has left you with a careful confidence and inner strength that you used to lack. You find yourself exuding authority, convincing your peers more easily and make a habit of giving useful advice.*
+
+You gain a +2 bonus on Diplomancy checks made to influence creatures. This bonus increases to +4 if the creature has at least 5 Hit Dice more than you, and goes to +6 if the creature consideres you their liege. You gain Combat Advice as a bonus feat.
+
+Once per day you can give an Inspiring Speech (take at minimum one full round action) which grants all allies within 60ft a +2 competence bonus on attack rolls for a number of rounds equal to your character level.
+
+Once per day you can designate a physical seat as a **Throne**, a symbol of your authority that when seated in it you are continously granted the effect of the Heroism spell.
+
+# Unchosen Advancements
+
+## Ruthless Pragmatist
+
+
+## Strong Willed
+
+

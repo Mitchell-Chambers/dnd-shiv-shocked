@@ -57,7 +57,7 @@ The ceiling is yellowed, and the walls are fit to collapse, with vines and creep
 
 ### C15 - Exit North
 
->Urist (Brad): **Gestures at the [[magic axe]]** *"If you simply consult the treatise."*
+>Urist (Brad): **Gestures at the [[Magic Glaive]]** *"If you simply consult the treatise."*
 
 A long corridor with ending with a large bronze door. Part way down a glaive is planted into the wall, next to a pyre. The glaive appears to be magical, Urist can't help but notice that it has a vibe aligned with Raku.
 
