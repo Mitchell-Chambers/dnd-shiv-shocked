@@ -5,13 +5,13 @@
       "blocks": [
         {
           "type": "inline",
-          "id": "cb9aa938489b",
+          "id": "e9e8c939c8fb",
           "properties": [],
           "hasRule": true,
           "nested": [
             {
               "type": "group",
-              "id": "19bbd96a288a",
+              "id": "d8a81988c8d9",
               "properties": [
                 "name",
                 "size",
@@ -22,7 +22,7 @@
               "nested": [
                 {
                   "type": "heading",
-                  "id": "88c81a78c91a",
+                  "id": "f899991ba80a",
                   "properties": [
                     "name"
                   ],
@@ -30,7 +30,7 @@
                 },
                 {
                   "type": "subheading",
-                  "id": "98b81bdb79cb",
+                  "id": "5bebca1a59e9",
                   "properties": [
                     "size",
                     "type",
@@ -44,7 +44,7 @@
             },
             {
               "type": "image",
-              "id": "f8f9a8884bcb",
+              "id": "7b7858db4bf8",
               "properties": [
                 "image"
               ]
@@ -53,7 +53,7 @@
         },
         {
           "type": "group",
-          "id": "48f8aacbca59",
+          "id": "c9cb983a8b48",
           "properties": [
             "ac",
             "hp",
@@ -61,36 +61,20 @@
           ],
           "nested": [
             {
-              "type": "inline",
-              "id": "abaa3b6a39da",
-              "properties": [],
-              "nested": [
-                {
-                  "type": "property",
-                  "id": "5be92a3849ea",
-                  "properties": [
-                    "hp"
-                  ],
-                  "display": "Hit Points",
-                  "dice": true,
-                  "diceProperty": "hit_dice",
-                  "diceCallback": "return [{ text: monster[\"hit_dice\"] }]",
-                  "conditioned": true
-                },
-                {
-                  "type": "property",
-                  "id": "7a9bdb9b0afb",
-                  "properties": [
-                    "currenthp"
-                  ],
-                  "fallback": "-",
-                  "conditioned": true
-                }
-              ]
+              "type": "property",
+              "id": "a9ebabb8f9a9",
+              "properties": [
+                "hp"
+              ],
+              "display": "Hit Points",
+              "dice": true,
+              "diceProperty": "hit_dice",
+              "diceCallback": "return [{ text: monster[\"hit_dice\"] }]",
+              "conditioned": true
             },
             {
               "type": "property",
-              "id": "4878bb388a79",
+              "id": "78a9886988d8",
               "display": "Speed",
               "properties": [
                 "speed"
@@ -99,12 +83,12 @@
             },
             {
               "type": "inline",
-              "id": "faea590b28ca",
+              "id": "1afb0a7b68ab",
               "properties": [],
               "nested": [
                 {
                   "type": "property",
-                  "id": "081af8b8f858",
+                  "id": "88e8bbab49cb",
                   "properties": [
                     "ac"
                   ],
@@ -113,22 +97,21 @@
                 },
                 {
                   "type": "property",
-                  "id": "09a829eaaa99",
+                  "id": "eb9938794838",
                   "properties": [
                     "t_ac"
                   ],
                   "fallback": "-",
                   "display": "Touch",
-                  "conditioned": true
+                  "conditioned": false
                 },
                 {
                   "type": "property",
-                  "id": "980a4a59582a",
+                  "id": "88baab5a7bea",
                   "properties": [
                     "ff_ac"
                   ],
                   "fallback": "-",
-                  "conditioned": true,
                   "display": "Flat-Footed"
                 }
               ]
@@ -139,7 +122,7 @@
         },
         {
           "type": "table",
-          "id": "ca487a18cbca",
+          "id": "a8e8a9ebb8d9",
           "properties": [
             "stats"
           ],
@@ -157,7 +140,7 @@
         },
         {
           "type": "group",
-          "id": "5ad919bbdbab",
+          "id": "5a58a9b8f9ab",
           "properties": [
             "saves",
             "skillsaves",
@@ -172,7 +155,7 @@
           "nested": [
             {
               "type": "saves",
-              "id": "ebfaa859baf9",
+              "id": "4989a9a87a18",
               "display": "Saves",
               "properties": [
                 "saves"
@@ -181,7 +164,7 @@
             },
             {
               "type": "saves",
-              "id": "988ba9ba6a19",
+              "id": "baa92b09e8cb",
               "display": "Skills",
               "properties": [
                 "skillsaves"
@@ -190,7 +173,7 @@
             },
             {
               "type": "property",
-              "id": "fa79c8d9399b",
+              "id": "0918c94ae88b",
               "display": "Damage Resistances",
               "properties": [
                 "damage_resistances"
@@ -199,7 +182,7 @@
             },
             {
               "type": "property",
-              "id": "5a5b7bfab90b",
+              "id": "99985b9bda8a",
               "display": "Damage Immunities",
               "properties": [
                 "damage_immunities"
@@ -208,7 +191,7 @@
             },
             {
               "type": "property",
-              "id": "5bd8aad888a9",
+              "id": "ea38587b7bf8",
               "display": "Condition Immunities",
               "properties": [
                 "condition_immunities"
@@ -217,7 +200,7 @@
             },
             {
               "type": "property",
-              "id": "ab888a18ca3b",
+              "id": "9bb99b495a2a",
               "display": "Damage Vulnerabilities",
               "properties": [
                 "damage_vulnerabilities"
@@ -226,7 +209,7 @@
             },
             {
               "type": "property",
-              "id": "d8e83bb8ca2b",
+              "id": "483a3a9b281a",
               "display": "Senses",
               "properties": [
                 "senses"
@@ -235,7 +218,7 @@
             },
             {
               "type": "property",
-              "id": "69ba99083908",
+              "id": "784b4908db0b",
               "display": "Languages",
               "properties": [
                 "languages"
@@ -244,23 +227,22 @@
             },
             {
               "type": "inline",
-              "id": "fa7888092b1b",
+              "id": "f9bbdae9094b",
               "properties": [],
               "conditioned": true,
               "nested": [
                 {
                   "type": "property",
-                  "id": "38e89bcbaa7b",
+                  "id": "1a495aa8ab98",
                   "properties": [
                     "bab"
                   ],
                   "fallback": "-",
-                  "display": "BAB",
-                  "conditioned": false
+                  "display": "BAB"
                 },
                 {
                   "type": "property",
-                  "id": "897b1aa8c82b",
+                  "id": "dacb5839081a",
                   "properties": [
                     "cmb"
                   ],
@@ -269,11 +251,11 @@
                 },
                 {
                   "type": "property",
-                  "id": "a948ea688af8",
+                  "id": "689939bba83b",
                   "properties": [
                     "cmd"
                   ],
-                  "fallback": "-",
+                  "fallback": "10",
                   "display": "CMD"
                 }
               ]
@@ -284,16 +266,16 @@
         },
         {
           "type": "traits",
-          "id": "69cb1bdbf988",
+          "id": "9aa9b9ba999b",
           "properties": [
             "feats"
           ],
-          "fallback": "-",
-          "conditioned": true
+          "conditioned": true,
+          "dice": true
         },
         {
           "type": "spells",
-          "id": "4a7a686a89aa",
+          "id": "4bca09ebbad9",
           "properties": [
             "spells"
           ],
@@ -302,14 +284,23 @@
         },
         {
           "type": "traits",
-          "id": "c8ea1bd8eb8b",
+          "id": "787848c82b1a",
           "properties": [
-            "gear"
+            "sq"
           ],
           "fallback": "-",
-          "headingProp": true,
-          "heading": "Gear",
-          "conditioned": true
+          "conditioned": true,
+          "dice": true
+        },
+        {
+          "type": "traits",
+          "id": "f9bb99dbfb49",
+          "properties": [
+            "attack"
+          ],
+          "fallback": "-",
+          "conditioned": true,
+          "dice": true
         }
       ],
       "name": "Basic PF Layout"
@@ -319,7 +310,7 @@
   "useDice": true,
   "renderDice": false,
   "export": true,
-  "showAdvanced": true,
+  "showAdvanced": false,
   "version": {
     "major": 2,
     "minor": 22,
@@ -329,7 +320,7 @@
     "/"
   ],
   "autoParse": false,
-  "disableSRD": false,
+  "disableSRD": true,
   "tryToRenderLinks": true,
   "debug": false
 }
