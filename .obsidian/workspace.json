@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gelik.md",
+                "file": "Sessions/2022-10-30 - 009 - On Treatises, Devils and Snakes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gelik.md",
+                "file": "Sessions/2022-10-30 - 009 - On Treatises, Devils and Snakes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gelik.md",
+                "file": "Sessions/2022-10-30 - 009 - On Treatises, Devils and Snakes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gelik.md"
+                "file": "Sessions/2022-10-30 - 009 - On Treatises, Devils and Snakes.md"
               }
             }
           },
@@ -151,8 +151,23 @@
     "direction": "horizontal",
     "width": 441.5
   },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "fantasy-calendar:Open Large Fantasy Calendar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
   "active": "489796fbf589015a",
   "lastOpenFiles": [
+    "Sessions/2022-12-15 - 010.md",
+    "Gelik.md",
     "Characters/Lothar Demidavious.md",
     "Locations/Smuggler's Shiv.md",
     "Locations/Jenivere.md",
@@ -160,8 +175,6 @@
     "Locations/The Empire.md",
     "Locations/The Kingdom.md",
     "Locations/The New World.md",
-    "The World.md",
-    "Sessions/2022-09-24 - 007 - Snake Blood for the Blood Snake Ft. Chucacabra.md",
-    "Sessions/2022-09-03 - 006 - A Duet of Ambushes.md"
+    "The World.md"
   ]
 }
