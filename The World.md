@@ -12,7 +12,11 @@
 [[2022-09-24 - 007 - Snake Blood for the Blood Snake Ft. Chucacabra]]
 [[2022-10-22 - 008 - Lair of the Bay Serpent]]
 [[2022-10-30 - 009 - On Treatises, Devils and Snakes]]
-
+[[2022-12-15 - 010 - The Snake King Speaks In Hissed Tongues]]
+[[2023-01-03 - 011 - Journey's Start, Again]]
+[[2023-01-23 - 012 - Rest and Recreation]]
+[[2023-01-29 - 013 - The No Good, Very Bad, Terrible Night]]
+[[2023-02-05 - 014 - Mourning After]]
 
 
 # Cooking Order

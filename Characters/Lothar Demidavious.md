@@ -1,27 +1,27 @@
 ---
 tags: [timeline, pc, human, fighter]
 ---
-**Current HP**: 34
+**Current HP**: 3
 ```statblock
 name: Lothar Demidavious
 size: Medium
 type: Fighter 4
 subtype: Human
 Alignment: Chaotic Neutral
-ac: 19
+ac: 15
 t_ac: 11
-ff_ac: 19
+ff_ac: 15
 stats: [14, 13, 12, 10, 10, 16]
 hp: 35
 speed: 30 ft. 25 ft. Armoured
-senses: Darkvision
+senses: Init +4
 bab: 4
 cmb: 4
 cmd: 15
 saves:
-  - Fortitude: +5
-  - Reflex: +2
-  - Will: +4
+  - Fortitude: +6
+  - Reflex: +3
+  - Will: +5
 skillsaves:
   - Bluff: 10
   - Climb: 6
@@ -35,7 +35,7 @@ skillsaves:
 languages: Common
 gear:
   - name: Combat Gear
-    desc: Mwk Battle Axe, Flag of Demidavicious, Glaive, Throwing Axe
+    desc: Mwk Battle Axe, Flag of Demidavicious, Glaive of the Crusader, Throwing Axe, Cloak of Resistance +1, Shattered Banded Mail, Studded Leather
   - name: Other Gear
     desc: 
 feats:
@@ -60,7 +60,11 @@ sq:
    desc: Have the armour take the dying blow
 attack:
  - name: Axe, Battle Mwk
-   desc: "Attack +8 and Damage 0 (1d8+3)"
+   desc: "Attack +7 and Damage 0 (1d8+3)"
+ - name: Glaive of the Crusader
+   desc: "Attack +8 and Damage 0 (1d10+5)"
+ - name: Under the Banner of Ydersius
+   desc: "Attack +10 and Damage 0 (1d10+)"
 dice: true
 ```
 
@@ -124,7 +128,37 @@ Weapon Training – High attack/damage, high options
 Advanced Armour/Weapon Training – The GOLDEN option for the fighter, never lose this.
 
 
-## Notes
+
+# Theoretical 10th Level
+Fighter 5, Paladin 5
+## Stats
+14,14,12,10,10,16
+AC 
+Fort 4+4+1+3 = 12, Reflex 1+1+2+3 = 7, Will 1+4+3+3 = 11
+BAB 10
+
+
+## Feats
+1: Noble Scion
+1: Toughness
+1: Steadfast Personality
+2: Flagbearer
+3: Divine Defiance
+4: Barroom Brawler
+5: Advanced Weapon Training
+7: 
+9: 
+10: Retrain into Boon Companion
+
+
+## Magic Items
+Bracers of the Avenging Knight
+Sash of the War Champion
+Gloves of Dueling
+# Theoretical 15th Level
+
+
+# Notes
 #### Earned Names  
 Barkeater
 Second Son
@@ -178,4 +212,4 @@ Once per day you can designate a physical seat as a **Throne**, a symbol of your
 
 ## Strong Willed
 
-
+[[Urist]]

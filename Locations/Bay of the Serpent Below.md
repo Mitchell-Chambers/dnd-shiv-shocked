@@ -1,0 +1,1 @@
+While it was a temple to Yderius, it also featured smaller shires dedicated to such deities like the two headed ogre.

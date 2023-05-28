@@ -4,57 +4,61 @@
     "type": "split",
     "children": [
       {
-        "id": "b15ab9eb720a9284",
+        "id": "097b7ae43b585a96",
         "type": "tabs",
-        "dimension": 49.95260663507109,
         "children": [
           {
-            "id": "011427a98ecec6c8",
+            "id": "8cf3541a597d9c0e",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2023-05-28 - 017 - Post Jailbreak Clarity and Large Pits.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "d22e599c9d34e003",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Gelik.md",
+                "file": "Reference Page.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b3202acd8ac435dd",
+            "id": "5797677836f19991",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/2023-01-03 - 011 -  New Sightings.md",
+                "file": "PRD/Sword, Bastard.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "664054985d30fc65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2023-05-28 - 017 - Post Jailbreak Clarity and Large Pits.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
-      },
-      {
-        "id": "2a14cbf8800f3a4f",
-        "type": "tabs",
-        "dimension": 50.04739336492891,
-        "children": [
-          {
-            "id": "9aaec61f3758e61a",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Lothar Demidavious.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          }
-        ]
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -99,6 +103,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "1d65dfe1e27949a0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -120,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2023-01-03 - 011 -  New Sightings.md",
+                "file": "Sessions/2023-05-28 - 017 - Post Jailbreak Clarity and Large Pits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2023-01-03 - 011 -  New Sightings.md",
+                "file": "Sessions/2023-05-28 - 017 - Post Jailbreak Clarity and Large Pits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2023-01-03 - 011 -  New Sightings.md"
+                "file": "Sessions/2023-05-28 - 017 - Post Jailbreak Clarity and Large Pits.md"
               }
             }
           },
@@ -200,17 +212,40 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b3202acd8ac435dd",
+  "active": "664054985d30fc65",
   "lastOpenFiles": [
-    "Characters/Lothar Demidavious.md",
-    "Characters/Urist.md",
-    "Characters/Ihe.md",
-    "Characters/Gelik.md",
-    "Characters/Sasha.md",
-    "Characters/Summer.md",
-    "The World.md",
-    "Timeline.md",
-    "Gods/Ydersius.md",
-    "The Gods.md"
+    "Sessions/2023-XX-XX - 015 - A Bad Quest.md",
+    "Sessions/2023-04-30 - 016 - Of Elven Prisoners and Godly Trials.md",
+    "Sessions/2023-02-05 - 014 - Mourning After.md",
+    "Sessions/2023-01-29 - 013 - The No Good, Very Bad, Terrible Night.md",
+    "Sessions/2023-05-28 - 017 - Post Jailbreak Clarity and Large Pits.md",
+    "Locations/Bay of the Serpent Below.md",
+    "Eon Stone.md",
+    "Objects/Sword of Dawn.md",
+    "PRD/Sword, Bastard.md",
+    "Reference Page.md",
+    "PRD/Curve Blade, Elven.md",
+    "Objects/Jingasa of the Fortunate Soldier.md",
+    "PRD/Blunderbuss.md",
+    "Objects/Magic Glaive.md",
+    "Winfred.md",
+    "Untitled.md",
+    "PRD",
+    "Sessions/2023-01-03 - 011 - Journey's Start, Again.md",
+    "Sessions/2023-01-23 - 012 - Rest and Recreation.md",
+    "Sessions/2022-12-15 - 010 - The Snake King Speaks In Hissed Tongues.md",
+    "Sessions/2022-10-30 - 009 - On Treatises, Devils and Snakes.md",
+    "Sessions/2022-07-24 - 002 - Pain, Sand, Ghosts, Oh My.md",
+    "Sessions/2022-07-16 - 001 - A Vessel Waylaid.md",
+    "Locations/Jenivere.md",
+    "Locations/Smuggler's Shiv.md",
+    "Locations/The Empire.md",
+    "Locations/The Kingdom.md",
+    "Images/Urist-Midjourney.png",
+    "Images/Summer-Midjourney.jpg",
+    "Images/Snake-Coin.png",
+    "Images/Smugglers-Shiv-Incomplete.jpg",
+    "Images/Skeleton-Snake-Man.png",
+    "Images/Red-Mountain.png"
   ]
 }

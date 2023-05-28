@@ -59,7 +59,9 @@ Lothar and Ihe go off and lockdown a resort for two weeks, costing the party 700
 
 Summer and Urist go off and begin hawk the party inventory for gold for the future shopping spree.
 
+Old Harbour Tow
 
+Grey Angel Resort because the Goddess of War once stayed there.
 
 
 
@@ -79,7 +81,7 @@ The Skull Chalice is a symbol of office for an unknown person, with a clear ench
 The goddess of Water, Nivera, worshiped by Elves and Sailors.
 
 Weapons for sale
-- [ ] +2 Adamantite Battle Axe of Raku
+- [x] +2 Adamantite Battle Axe of Raku
 - [ ] +3 Composite Longbow
 - [ ] +2 Frost Sickle
 - [ ] 
