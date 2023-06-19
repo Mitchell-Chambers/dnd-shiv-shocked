@@ -8,25 +8,27 @@ Blunderbuss 2000gp value - 1000 resale
 6lb blackpowered in infinite amounts
 
 # The Champion Room
-Urist moves straight through the loot to the piles 1500gp
+Urist moves straight through the loot to the piles ~~1500g (On Urists Sheet~~
 Blade is uncovered
 
 ![[Sword of Dawn]] 
 
 
 # The Underdark Gaol
+
+>[!tip]- Moved to Loot Pool
 [[Blunderbuss]] 
 Travelers Anytool
 Key of Lockjamming
 ~~5~~4 Potions of Cure Light Wounds
 Pathfinder Pouch
-
 Iron Gargolye Face with a Iron Ring in it's mouth
 Fishman identifies the item as an 'Instant Doorknocker'
 ~~Amulet of Natural Armour +1~~ - Winfred
 ~~Ring of Proc +1~~ - Ihe
 Muleback Cords
-2000gp
+2000gp 
+
 
 Darklands
 

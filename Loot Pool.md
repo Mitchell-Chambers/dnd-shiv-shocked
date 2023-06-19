@@ -1,19 +1,7 @@
 
 list: 
 - 28 days remaining well fed 
-- 32 communal gold 
-
-Loot: 
-on summer's corpse: 
-- flint and steel 
-- oil 
-- mage armour 
-- pearl of power cl2 
-- cloak of resistance +1 
-- scholars outfit 
-- arcane mark wand x22 charges 
-- mortimer black opal crown 
-- ring of protection +1 
+gp 2000 + 32
 
 in communal backpack: 
 - spell component pouch 
@@ -37,8 +25,6 @@ in communal backpack:
 - 4x rattlenut 
 - whale silver magic flask 
 - unholy water 
-- yellow tooth amulet 
-- 2x berry amethyst (1000g) 
 - necklace mantacore 
 - tent 
 - 20x normal bolts 
@@ -46,24 +32,55 @@ in communal backpack:
 - long sword 
 - 4x crossbow 
 - small masterworked crossbow 
-- cobald totem 
 - 4x small short swords 
 - alchemical coal flask 
 - snake spear trap (15 ranged DC 20 perception DC 20 disable device 1d8+6 black adder venom) 
-- chest gold ring (30g) 
-- pocket watch (500g) 
-- gold ore (200g) 
-- 3x cave fissure gland (100g) (counts 100g towards soverign glue) 
+
+- 3x cave fissure gland (100g) (counts 100g towards sovereign glue) 
 - human bone comb 
 - 3x masterworked cleaver (hand axe) (300g ea) 
 - wand of heat metal x50 charges 
 - great sword 
 - greater smithing hammer (+4 spellcraft bonus on crafting magic armour and weapons) 
 - scroll of blink wand of slow cl5 x50 charges 
-- antique chest
+
 
 
 Oil of Silence
 2x Flask Alch Fire
 Blackpowered Horn 20 doses x2
 Potion of Cure Light
+
+
+[Blunderbuss](app://obsidian.md/Blunderbuss)  
+
+~~5~~4 Potions of Cure Light Wounds
+Iron Gargoyle Face with a Iron Ring in it's mouth  
+
+Magic Items:
+Travelers Anytool  
+Key of Lockjamming  
+Pathfinder Pouch
+Fishman identifies the item as an 'Instant Doorknocker'  
+Muleback Cords  
+
+Barterable:
+- antique chest
+- chest gold ring (30g) 
+- pocket watch (500g) 
+- gold ore (200g)
+- Kobold totem 
+- yellow tooth amulet 
+- 2x berry amethyst (1000g)
+
+
+>[!bug]- On Summer: 
+>- flint and steel 
+>- oil 
+>- mage armour 
+>- pearl of power cl2 
+>- cloak of resistance +1 
+>- scholars outfit 
+>- arcane mark wand x22 charges 
+>- mortimer black opal crown 
+>- ring of protection +1 
