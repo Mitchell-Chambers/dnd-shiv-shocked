@@ -116,3 +116,5 @@ As the convoy makes it's final desperate push to Old Harbor on the sixth day, th
 The Humans, deep in the mire of fear and sufferers of the first causalities in the day before turn to their faith and their priest and demand the burning of a Halfling in the fires of their god as a sacrifice for the road ahead. Urist attempts to calm them and is forced to concede the scorching of hands belonging to the halfling thief upon the return to Old Harbour, should they be able to find them.
 The Halflings, independent traders and independent souls, have their spirits high, having had the return of Aram and the defense of strong halfling heroes like Chadidoc in recent memory.
 The Ogre's, thought to be left behind, intercept the convoy along the final possible ambush point, a ridge along the coast line. There the leader of the Ogre's warband draws a blade, Dusk to the party's Dawn, and calls for battle.
+
+And then [[The Kingdom]] was attacked by 
