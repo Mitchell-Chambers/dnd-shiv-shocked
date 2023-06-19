@@ -18,7 +18,7 @@
 [[2022-10-30 - 009 - On Treatises, Devils and Snakes]]
 [[2022-12-15 - 010 - The Snake King Speaks In Hissed Tongues]]
 
-### Act 1 - Penniless in Old Harbor
+### Act 1 - Penniless in Old Harbour
 #### Level 4
 [[2023-01-03 - 011 - Journey's Start, Again]]
 [[2023-01-23 - 012 - Rest and Recreation]]
