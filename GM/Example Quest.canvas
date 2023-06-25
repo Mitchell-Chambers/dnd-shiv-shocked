@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"type":"group","id":"cfd1c9f46e745a04","x":-320,"y":-320,"width":720,"height":330,"label":"Example Mission"},
+		{"type":"text","text":"Receive Quest","id":"cfe95d7b7787739d","x":-300,"y":-200,"width":140,"height":60},
+		{"type":"text","text":"Learn Hideaway","id":"486c655b007f6f4a","x":-120,"y":-200,"width":140,"height":60},
+		{"type":"text","text":"Gather Equipment","id":"12bbdde96847caec","x":-120,"y":-100,"width":140,"height":60},
+		{"type":"text","text":"Plan Route","id":"971c9c76bdcaa797","x":-120,"y":-300,"width":140,"height":60},
+		{"type":"text","text":"Bandit Camp Outskirts","id":"45a0a35571aef53e","x":60,"y":-200,"width":140,"height":60},
+		{"type":"text","text":"Bandit Camp Encounter","id":"c8b985811e24696f","x":58,"y":-70,"width":145,"height":60,"color":"1"},
+		{"type":"text","text":"Confront the Bandit King","id":"a7f5454604389e29","x":240,"y":-200,"width":140,"height":60,"color":"1"}
+	],
+	"edges":[
+		{"id":"fc03d40bb1165f7c","fromNode":"45a0a35571aef53e","fromSide":"bottom","toNode":"c8b985811e24696f","toSide":"top"},
+		{"id":"4d291f3c24a556a6","fromNode":"cfe95d7b7787739d","fromSide":"right","toNode":"971c9c76bdcaa797","toSide":"left"},
+		{"id":"596c0b1e6672e7c5","fromNode":"cfe95d7b7787739d","fromSide":"right","toNode":"486c655b007f6f4a","toSide":"left"},
+		{"id":"db5de079379c456c","fromNode":"cfe95d7b7787739d","fromSide":"right","toNode":"12bbdde96847caec","toSide":"left"},
+		{"id":"8aed2eaa3aa7798c","fromNode":"486c655b007f6f4a","fromSide":"right","toNode":"45a0a35571aef53e","toSide":"left"},
+		{"id":"a1bfb5cb2ce2b6bc","fromNode":"45a0a35571aef53e","fromSide":"right","toNode":"a7f5454604389e29","toSide":"left"},
+		{"id":"42ae077ccd0b7d20","fromNode":"c8b985811e24696f","fromSide":"right","toNode":"a7f5454604389e29","toSide":"bottom"}
+	]
+}

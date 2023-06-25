@@ -99,7 +99,76 @@
   "playerMarker": "default",
   "monsterMarker": "default",
   "state": {
-    "creatures": [],
+    "creatures": [
+      {
+        "name": "Dragon Horse",
+        "initiative": 13,
+        "static": false,
+        "modifier": 0,
+        "hp": 103,
+        "currentMaxHP": 103,
+        "note": "Pathfinder-1E-SRD-Markdown-main/fantasy-bestiary/d/dragon-horse.md",
+        "id": "ID_3af8cb3b98a8",
+        "currentHP": 103,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "hidden": false,
+        "friendly": false,
+        "hit_dice": "10d10+50"
+      },
+      {
+        "name": "Dragon Horse",
+        "initiative": 13,
+        "static": false,
+        "modifier": 0,
+        "hp": 116,
+        "currentMaxHP": 116,
+        "note": "Pathfinder-1E-SRD-Markdown-main/fantasy-bestiary/d/dragon-horse.md",
+        "id": "ID_19fbfa9bdb8b",
+        "currentHP": 116,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "hidden": false,
+        "friendly": false,
+        "hit_dice": "10d10+50"
+      },
+      {
+        "name": "Dragon Horse",
+        "initiative": 13,
+        "static": false,
+        "modifier": 0,
+        "hp": 93,
+        "currentMaxHP": 93,
+        "note": "Pathfinder-1E-SRD-Markdown-main/fantasy-bestiary/d/dragon-horse.md",
+        "id": "ID_3939191ab9c9",
+        "currentHP": 93,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "hidden": false,
+        "friendly": false,
+        "hit_dice": "10d10+50"
+      },
+      {
+        "name": "Dragon Horse",
+        "initiative": 13,
+        "static": false,
+        "modifier": 0,
+        "hp": 95,
+        "currentMaxHP": 95,
+        "note": "Pathfinder-1E-SRD-Markdown-main/fantasy-bestiary/d/dragon-horse.md",
+        "id": "ID_a8bb3bdaeaa8",
+        "currentHP": 95,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "hidden": false,
+        "friendly": false,
+        "hit_dice": "10d10+50"
+      }
+    ],
     "state": false,
     "name": null,
     "round": 1,
@@ -118,7 +187,7 @@
     "party": true,
     "status": true,
     "plugin": true,
-    "player": true
+    "player": false
   },
   "hpOverflow": "ignore",
   "additiveTemp": false,
@@ -128,9 +197,156 @@
   "diplayPlayerHPValues": true,
   "rollHP": false,
   "builder": {
-    "showParty": true,
-    "showXP": true,
-    "sidebarIcon": true
+    "showParty": false,
+    "showXP": false,
+    "sidebarIcon": true,
+    "headers": [
+      {
+        "text": "CR",
+        "field": "Monster_CR",
+        "type": 1
+      },
+      {
+        "text": "Type",
+        "field": "type",
+        "type": 0
+      },
+      {
+        "text": "Size",
+        "field": "size",
+        "type": 0
+      },
+      {
+        "text": "Alignment",
+        "field": "alignment",
+        "type": 0
+      }
+    ],
+    "filters": {
+      "filters": [
+        {
+          "type": 2,
+          "text": "Size",
+          "fields": [
+            "size"
+          ],
+          "options": [
+            "Medium",
+            "Large",
+            "Huge",
+            "Gargantuan",
+            "Colossal",
+            "Tiny",
+            "Small",
+            "Diminutive",
+            "Fine"
+          ],
+          "id": "ID_DEFAULT_SIZE_FILTER",
+          "derive": true
+        },
+        {
+          "type": 2,
+          "text": "Type",
+          "fields": [
+            "type"
+          ],
+          "options": [
+            "outsider",
+            "dragon",
+            "aberration",
+            "magical beast",
+            "construct",
+            "undead",
+            "humanoid",
+            "monstrous humanoid",
+            "vermin",
+            "animal",
+            "plant",
+            "fey",
+            "ooze"
+          ],
+          "id": "ID_DEFAULT_TYPE_FILTER",
+          "derive": true
+        },
+        {
+          "type": 2,
+          "text": "Alignment",
+          "fields": [
+            "alignment"
+          ],
+          "options": [
+            "NG",
+            "CN",
+            "NE",
+            "N",
+            "CE",
+            "LE",
+            "CG",
+            "LG",
+            "LN",
+            "NG or NE",
+            "Any alignment (same as creator)",
+            "Any alignment",
+            "CG or CE"
+          ],
+          "id": "ID_DEFAULT_ALIGNMENT_FILTER",
+          "derive": true
+        },
+        {
+          "type": 1,
+          "text": "Name",
+          "fields": [
+            "name"
+          ],
+          "options": [],
+          "id": "ID_DEFAULT_NAME_FILTER",
+          "derive": false
+        },
+        {
+          "type": 0,
+          "text": "CR",
+          "fields": [
+            "Monster_CR"
+          ],
+          "options": [
+            0,
+            30
+          ],
+          "id": "ID_DEFAULT_CR_FILTER",
+          "derive": true
+        }
+      ],
+      "layout": [
+        {
+          "nested": [
+            {
+              "id": "ID_DEFAULT_CR_FILTER",
+              "type": "filter"
+            }
+          ],
+          "id": "ID_DEFAULT_NESTED_CR",
+          "type": "nested"
+        },
+        {
+          "id": "ID_DEFAULT_NESTED_LAYOUT",
+          "type": "nested",
+          "nested": [
+            {
+              "id": "ID_DEFAULT_SIZE_FILTER",
+              "type": "filter"
+            },
+            {
+              "id": "ID_DEFAULT_TYPE_FILTER",
+              "type": "filter"
+            },
+            {
+              "id": "ID_DEFAULT_ALIGNMENT_FILTER",
+              "type": "filter"
+            }
+          ]
+        }
+      ]
+    }
   },
   "homebrew": []
 }

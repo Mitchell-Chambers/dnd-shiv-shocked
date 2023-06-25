@@ -4,47 +4,73 @@
     "type": "split",
     "children": [
       {
-        "id": "dfc084a78183090b",
+        "id": "585dd562e583d671",
         "type": "tabs",
         "children": [
           {
-            "id": "489796fbf589015a",
+            "id": "3d76ecdeba1256e6",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 30.852607302892665,
+                  "y": 182.18946675603206,
+                  "zoom": -0.5154237780968348
+                }
+              }
+            }
+          },
+          {
+            "id": "53bf6fcdd2ecaafe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The World.md",
+                "file": "NPCs/Chadidoc Thundercock.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "419e510250486fec",
+            "id": "acc0326d745a03d2",
+            "type": "leaf",
+            "state": {
+              "type": "intiative-tracker-encounter-builder",
+              "state": []
+            }
+          },
+          {
+            "id": "63a2fb93e1a310c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/The Kingdom.md",
+                "file": "Pathfinder-1E-SRD-Markdown-main/fantasy-bestiary/a/aasimar.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6688d74609188eba",
+            "id": "f4a720cf9cf0ba1f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Players/Winfred 'Freddie' - Kol.md",
-                "mode": "source",
-                "source": false
+                "file": "GM/GM Screen.canvas",
+                "viewState": {
+                  "x": -20.600395671139335,
+                  "y": 84.6797889753923,
+                  "zoom": 0.006666666666666667
+                }
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -102,7 +128,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.5
+    "width": 200
   },
   "right": {
     "id": "f3999a08532fea8a",
@@ -111,6 +137,7 @@
       {
         "id": "51d543b1c256d4cb",
         "type": "tabs",
+        "dimension": 32.668067226890756,
         "children": [
           {
             "id": "368cdc967a8e00ef",
@@ -118,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Players/Winfred 'Freddie' - Kol.md",
+                "file": "GM/GM Screen.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Players/Winfred 'Freddie' - Kol.md",
+                "file": "GM/GM Screen.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,14 +188,6 @@
             }
           },
           {
-            "id": "8d2d06df4ca7b393",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {}
-            }
-          },
-          {
             "id": "917a254a268f318f",
             "type": "leaf",
             "state": {
@@ -182,16 +201,40 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Players/Winfred 'Freddie' - Kol.md"
+                "file": "GM/GM Screen.canvas"
               }
+            }
+          },
+          {
+            "id": "d54d0417e0feb09e",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
+      },
+      {
+        "id": "c5462f8991a76e59",
+        "type": "tabs",
+        "dimension": 67.33193277310924,
+        "children": [
+          {
+            "id": "c32fbfa96c1ddac8",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 389.5
+    "width": 389.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,13 +246,35 @@
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "initiative-tracker:Intiative Tracker Encounter Builder": false,
-      "fantasy-calendar:Open Large Fantasy Calendar": false
+      "fantasy-calendar:Open Large Fantasy Calendar": false,
+      "initiative-tracker:Intiative Tracker Encounter Builder": false
     }
   },
-  "active": "6688d74609188eba",
+  "active": "f4a720cf9cf0ba1f",
   "lastOpenFiles": [
+    "GM/Example Quest.canvas",
+    "GM/GM Screen.canvas",
+    "NPCs/Chadidoc Thundercock.md",
+    "Pathfinder-1E-SRD-Markdown-main/fantasy-bestiary/a/aasimar.md",
+    "Pathfinder-1E-SRD-Markdown-main/fantasy-bestiary/a/aatheriexa.md",
+    "Untitled.canvas",
+    "GM/Example Mission.md",
+    "GM",
+    "NPCs/Gelik.md",
+    "NPCs/Sasha.md",
+    "Pathfinder-1E-SRD-Markdown-main/fantasy-bestiary/a/aashaqs-wyvern.md",
+    "Locations/Jenivere.md",
+    "Locations/Smuggler's Shiv.md",
+    "Locations/The New World.md",
+    "Locations/The Kingdom.md",
+    "Locations/The Empire.md",
+    "Locations/Bay of the Serpent Below.md",
+    "Homebrew/Enactor of the Elvish Dawn.md",
+    "Pathfinder-1E-SRD-Markdown-main/fantasy-bestiary/a/ancient-crystal-dragon.md",
     "The World.md",
+    "Pathfinder-1E-SRD-Markdown-main/fantasy-bestiary/a/ancient-etheric-dragon.md",
+    "Players/Ihe.md",
+    "Players/Winfred 'Freddie' - Kol.md",
     "Pathfinder-1E-SRD-Markdown-main/fantasy-bestiary/Adult Red Dragon.md",
     "Pathfinder-1E-SRD-Markdown-main/fantasy-bestiary/Adult Paradise Dragon.md",
     "Pathfinder-1E-SRD-Markdown-main/fantasy-bestiary/Adult Occult Dragon.md",
@@ -217,34 +282,14 @@
     "Pathfinder-1E-SRD-Markdown-main/fantasy-bestiary/Adult Magma Dragon.md",
     "Pathfinder-1E-SRD-Markdown-main/fantasy-bestiary/Adult Lunar Dragon.md",
     "Pathfinder-1E-SRD-Markdown-main/fantasy-bestiary",
-    "Pathfinder 1E SRD/fantasy-bestiary 1/Adult Infernal Dragon.md",
-    "Pathfinder 1E SRD/fantasy-bestiary 1/Adult Havoc Dragon.md",
     "Pathfinder 1E SRD/fantasy-bestiary 1",
     "Pathfinder-1E-SRD-Markdown-main",
-    "Pathfinder 1E SRD/fantasy-bestiary/Adult Green Dragon.md",
-    "Pathfinder 1E SRD/fantasy-bestiary/Adult Gold Dragon.md",
-    "Pathfinder 1E SRD/fantasy-bestiary/Adult Forest Dragon.md",
-    "Pathfinder 1E SRD/fantasy-bestiary/Adult Etheric Dragon.md",
-    "Pathfinder 1E SRD/fantasy-bestiary/Adult Edict Dragon.md",
-    "Pathfinder 1E SRD/fantasy-bestiary/Adult Dream Dragon.md",
-    "Pathfinder 1E SRD/fantasy-bestiary/Adult Crystal Dragon.md",
-    "Pathfinder 1E SRD/fantasy-bestiary/Adult Crypt Dragon.md",
-    "Pathfinder 1E SRD/fantasy-bestiary/Adult Copper Dragon.md",
-    "Pathfinder 1E SRD/fantasy-bestiary/Adult Cloud Dragon.md",
-    "Pathfinder 1E SRD/fantasy-bestiary/Adult Bronze Dragon.md",
-    "Pathfinder 1E SRD/fantasy-bestiary/Adult Brine Dragon.md",
-    "Pathfinder 1E SRD/fantasy-bestiary/Adult Brass Dragon.md",
-    "Pathfinder 1E SRD/fantasy-bestiary/Adult Blue Dragon.md",
-    "Pathfinder 1E SRD/fantasy-bestiary/Adult Bliss Dragon.md",
-    "Pathfinder 1E SRD/fantasy-bestiary/Adult Black Dragon.md",
-    "Pathfinder 1E SRD/fantasy-bestiary/Adult Astral Dragon.md",
     "Pathfinder 1E SRD/fantasy-bestiary",
     "Pathfinder 1E SRD/afflictions-and-hazards/traps",
     "Pathfinder 1E SRD/afflictions-and-hazards/poisons",
     "Pathfinder 1E SRD/afflictions-and-hazards/madnesses",
     "Pathfinder 1E SRD/afflictions-and-hazards/haunts",
     "Pathfinder 1E SRD/afflictions-and-hazards/drugs",
-    "Pathfinder 1E SRD/afflictions-and-hazards/diseases",
     "Images/Snake-Coin.png",
     "Images/Summer-Midjourney.jpg",
     "Images/Red-Mountain.png",

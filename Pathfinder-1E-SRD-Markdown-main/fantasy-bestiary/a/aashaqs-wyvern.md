@@ -6,11 +6,11 @@ tags: [monster]
 updated: 2023-04-28
 ---
 ```statblock
-layout: Basic Pathfinder 1e Layout
+layout: Basic Pathfinder 1e Layout Compat
 source: "Isles of the Shackles"
-Monster_CR: 8
+cr: 8
 name: Aashaq's Wyvern
-Monster_XP: 4800
+xp: 4800
 alignment: CN
 size: Large
 type: dragon
@@ -19,7 +19,7 @@ perception: +20
 senses: darkvision, low-light vision, scent
 AC: 20, touch 10, flat-footed 19 (dex +1, natural +10, size -1)
 HP: 103
-HD: 9d12+45
+hit_dice: 9d12+45
 saves: Fort +11, Ref +7, Will +9
 immune: dragon traits, magic paralysis and sleep
 resist: acid 10, fire 10
