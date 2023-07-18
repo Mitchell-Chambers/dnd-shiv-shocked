@@ -11,14 +11,11 @@
             "id": "3d76ecdeba1256e6",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 30.852607302892665,
-                  "y": 182.18946675603206,
-                  "zoom": -0.5154237780968348
-                }
+                "file": "Locations/Old Harbor.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -28,18 +25,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Chadidoc Thundercock.md",
+                "file": "Sessions/2022-12-15 - 010 - The Snake King Speaks In Hissed Tongues.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "acc0326d745a03d2",
-            "type": "leaf",
-            "state": {
-              "type": "intiative-tracker-encounter-builder",
-              "state": []
             }
           },
           {
@@ -48,7 +37,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pathfinder-1E-SRD-Markdown-main/fantasy-bestiary/a/aasimar.md",
+                "file": "The World.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7508635d986747f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2023-07-08 - 022 - The Plague Arrives at Old Harbor.md",
                 "mode": "source",
                 "source": false
               }
@@ -58,19 +59,16 @@
             "id": "f4a720cf9cf0ba1f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "GM/GM Screen.canvas",
-                "viewState": {
-                  "x": -20.600395671139335,
-                  "y": 84.6797889753923,
-                  "zoom": 0.006666666666666667
-                }
+                "file": "Sessions/2023-06-25 - 021 - Not Yet Safe.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -137,7 +135,7 @@
       {
         "id": "51d543b1c256d4cb",
         "type": "tabs",
-        "dimension": 32.668067226890756,
+        "dimension": 53.80434782608695,
         "children": [
           {
             "id": "368cdc967a8e00ef",
@@ -145,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GM/GM Screen.canvas",
+                "file": "Sessions/2023-07-08 - 022 - The Plague Arrives at Old Harbor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GM/GM Screen.canvas",
+                "file": "Sessions/2023-07-08 - 022 - The Plague Arrives at Old Harbor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GM/GM Screen.canvas"
+                "file": "Sessions/2023-07-08 - 022 - The Plague Arrives at Old Harbor.md"
               }
             }
           },
@@ -219,7 +217,7 @@
       {
         "id": "c5462f8991a76e59",
         "type": "tabs",
-        "dimension": 67.33193277310924,
+        "dimension": 46.19565217391305,
         "children": [
           {
             "id": "c32fbfa96c1ddac8",
@@ -233,8 +231,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 389.5,
-    "collapsed": true
+    "width": 389.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -250,37 +247,38 @@
       "initiative-tracker:Intiative Tracker Encounter Builder": false
     }
   },
-  "active": "f4a720cf9cf0ba1f",
+  "active": "7508635d986747f0",
   "lastOpenFiles": [
-    "GM/Example Quest.canvas",
-    "GM/GM Screen.canvas",
-    "NPCs/Chadidoc Thundercock.md",
-    "Pathfinder-1E-SRD-Markdown-main/fantasy-bestiary/a/aasimar.md",
-    "Pathfinder-1E-SRD-Markdown-main/fantasy-bestiary/a/aatheriexa.md",
-    "Untitled.canvas",
-    "GM/Example Mission.md",
-    "GM",
-    "NPCs/Gelik.md",
-    "NPCs/Sasha.md",
-    "Pathfinder-1E-SRD-Markdown-main/fantasy-bestiary/a/aashaqs-wyvern.md",
-    "Locations/Jenivere.md",
-    "Locations/Smuggler's Shiv.md",
-    "Locations/The New World.md",
-    "Locations/The Kingdom.md",
-    "Locations/The Empire.md",
-    "Locations/Bay of the Serpent Below.md",
-    "Homebrew/Enactor of the Elvish Dawn.md",
-    "Pathfinder-1E-SRD-Markdown-main/fantasy-bestiary/a/ancient-crystal-dragon.md",
-    "The World.md",
-    "Pathfinder-1E-SRD-Markdown-main/fantasy-bestiary/a/ancient-etheric-dragon.md",
-    "Players/Ihe.md",
+    "Sessions/2023-06-25 - 021 - Not Yet Safe.md",
+    "Sessions/2023-06-17 - 020 - From Kelwick to Old Harbor.md",
+    "Sessions/2023-07-08 - 022 - The Plague Arrives at Old Harbor.md",
+    "Sessions/2022-12-15 - 010 - The Snake King Speaks In Hissed Tongues.md",
+    "Sessions/2022-09-24 - 007 - Snake Blood for the Blood Snake Ft. Chucacabra.md",
+    "Sessions/2022-08-13 - 004 - Goblin Kings, Gnomish Grievances.md",
     "Players/Winfred 'Freddie' - Kol.md",
-    "Pathfinder-1E-SRD-Markdown-main/fantasy-bestiary/Adult Red Dragon.md",
-    "Pathfinder-1E-SRD-Markdown-main/fantasy-bestiary/Adult Paradise Dragon.md",
-    "Pathfinder-1E-SRD-Markdown-main/fantasy-bestiary/Adult Occult Dragon.md",
-    "Pathfinder-1E-SRD-Markdown-main/fantasy-bestiary/Adult Nightmare Dragon.md",
-    "Pathfinder-1E-SRD-Markdown-main/fantasy-bestiary/Adult Magma Dragon.md",
-    "Pathfinder-1E-SRD-Markdown-main/fantasy-bestiary/Adult Lunar Dragon.md",
+    "Sessions/2022-10-30 - 009 - On Treatises, Devils and Snakes.md",
+    "Sessions/2022-10-22 - 008 - Lair of the Bay Serpent.md",
+    "Sessions/2022-09-03 - 006 - A Duet of Ambushes.md",
+    "Sessions/2022-08-20 - 005 - On the Civilisation of Cannibals.md",
+    "Sessions/2022-07-30 - 003 - The Lighthouse of Ruin and Ambition.md",
+    "Sessions/2022-07-24 - 002 - Pain, Sand, Ghosts, Oh My.md",
+    "Sessions/2022-07-16 - 001 - A Vessel Waylaid.md",
+    "Locations/Old Harbor.md",
+    "Locations/Smuggler's Shiv.md",
+    "Locations/Jenivere.md",
+    "Pathfinder-1E-SRD-Markdown-main/fantasy-bestiary/r/remorhaz.md",
+    "The World.md",
+    "NPCs/Chadidoc Thundercock.md",
+    "Templates/Leaflet Map.md",
+    "Templates/Timeline Insert.md",
+    "Sessions/2023-06-10 - 019 - Flight from Kelwick.md",
+    "PRD/Sword, Bastard.md",
+    "PRD/Curve Blade, Elven.md",
+    "PRD/Blunderbuss.md",
+    "GM/GM Screen.canvas",
+    "GM/Example Quest.canvas",
+    "Untitled.canvas",
+    "GM",
     "Pathfinder-1E-SRD-Markdown-main/fantasy-bestiary",
     "Pathfinder 1E SRD/fantasy-bestiary 1",
     "Pathfinder-1E-SRD-Markdown-main",

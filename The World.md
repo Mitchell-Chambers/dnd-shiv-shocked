@@ -31,7 +31,9 @@
 [[2023-06-04 - 018 - A Trial and A Trial]]
 [[2023-06-10 - 019 - Flight from Kelwick]]
 [[2023-06-17 - 020 - From Kelwick to Old Harbor]]
-
+[[2023-06-25 - 021 - Not Yet Safe]]
+### Level 6
+[[2023-07-08 - 022 - The Plague Arrives at Old Harbor]]
 
 # Cooking Order
 1. Andy
